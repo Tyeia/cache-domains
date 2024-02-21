@@ -83,6 +83,11 @@
 			"domain_files": ["sony.txt"]
 		},
 		{
+			"name": "soulframe",
+			"description": "CDN for soulframe",
+			"domain_files": ["soulframe.txt"]
+		},
+		{
 			"name": "square",
 			"description": "CDN for Final Fantasy XIV",
 			"domain_files": ["square.txt"]
