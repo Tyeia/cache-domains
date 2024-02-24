@@ -108,6 +108,11 @@
 			"domain_files": ["teso.txt"]
 		},
 		{
+			"name": "thunderstore",
+			"description": "CDN for Thunderstore",
+			"domain_files": ["thunderstore.txt"]
+		},
+		{
 			"name": "warframe",
 			"description": "CDN for Warframe",
 			"domain_files": ["warframe.txt"]
